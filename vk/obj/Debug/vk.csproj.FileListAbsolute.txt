@@ -1,0 +1,13 @@
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\vk.exe.config
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\vk.exe
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\vk.pdb
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\obj\Debug\vk.csprojResolveAssemblyReference.cache
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\obj\Debug\vk.vkForm.resources
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\obj\Debug\vk.Properties.Resources.resources
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\obj\Debug\vk.csproj.GenerateResource.Cache
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\obj\Debug\vk.exe
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\obj\Debug\vk.pdb
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\WebDriver.dll
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\WebDriver.xml
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\WebDriver.Support.dll
+c:\users\s.o.kravchenko\documents\visual studio 2012\Projects\vk\vk\bin\Debug\WebDriver.Support.xml
